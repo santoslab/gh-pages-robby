@@ -1,0 +1,95 @@
+.. toctree::
+   :hidden:
+
+   calendar
+   projects
+   funding
+   teaching
+   honors
+
+Home
+####
+
+.. include:: def-contact.rst
+
+----
+
+Recent Papers
+*************
+
+----
+
+|Fengguo Wei|, |Sankardas Roy|, |Xinming Ou|, |Robby|:
+`Amandroid: A Precise and General Inter-component Data Flow Analysis Framework 
+for Security Vetting of Android Apps <http://dl.acm.org/citation.cfm?doid=2660267.2660357>`__. 
+`CCS 2014 <http://www.sigsac.org/ccs/CCS2014/>`__: 1329-1341.
+[`Download <http://amandroid.sireum.org>`__]
+
+----
+
+|Sam Procter|, |John Hatcliff|, |Robby|:
+Towards an AADL-Based Definition of App Architectures for Medical Application 
+Platforms. 
+`SEHC 2014 <http://fhies-sehc.in.tu-clausthal.de>`__ (to appear).
+
+----
+
+|Pierre Courtieu|, |Maria Virginia Aponte|, |Tristan Crolard|, |Zhi Zhang|, 
+|Robby|, |Jason Belt|, |John Hatcliff|, |Jerome Guitton|, |Trevor Jennings|: 
+`Towards The Formalization of SPARK 2014 Semantics With Explicit Run-time
+Checks Using Coq <http://dl.acm.org/citation.cfm?id=2527269.2527278>`__.
+`HILT 2013 <http://www.sigada.org/conf/hilt2013/>`__: 21-22.
+[`Coq doc and source <http://sireum.github.io/doc/bakar/index.html#document-formalization/spark2014-semantics>`__].
+  
+----
+
+|John Hatcliff|, |Robby|, |Patrice Chalin|, |Jason Belt|: 
+`Explicating Symbolic Execution (xSymExe): An Evidence-Based Verification 
+Framework <http://dl.acm.org/citation.cfm?id=2486818>`__. 
+`ICSE 2013 <http://2013.icse-conferences.org>`__: 222-231.
+
+----
+
+|Jooyong Yi|, |Robby|, Xianghua Deng, |Abhik Roychoudhury|: 
+`Past Expression: Encapsulating Pre-states at Post-conditions by Means of 
+AOP <http://dl.acm.org/citation.cfm?id=2451453>`__.
+`AOSD 2013 <http://aosd.net/2013/>`__: 133-144.
+
+----
+
+Xianghua Deng, |Jooyong Lee|, |Robby|: `Efficient and Formal Generalized 
+Symbolic Execution <http://link.springer.com/article/10.1007%2Fs10515-011-0089-9>`__.
+`Autom. Softw. Eng. <http://www.springer.com/computer/ai/journal/10515>`__ 
+19(3): 233-301 (2012).
+
+----
+
+|Jason Belt|, |Robby|, |Patrice Chalin|, |John Hatcliff|, Xianghua Deng: 
+`Efficient Symbolic Execution of Value-Based Data Structures for Critical 
+Systems <http://link.springer.com/chapter/10.1007%2F978-3-642-28891-3_29>`__. 
+`NFM 2012 <http://shemesh.larc.nasa.gov/nfm2012/>`__: 295-309.
+
+----
+
+Hariharan Thiagarajan, |John Hatcliff|, |Jason Belt|, |Robby|: 
+`Bakar Alir: Supporting Developers in Construction of Information Flow 
+Contracts in SPARK 
+<http://www.computer.org/csdl/proceedings/scam/2012/4783/00/4783a132-abs.html>`__. 
+`SCAM 2012 <http://www.ieee-scam.org/2012/>`__: 132-137.
+
+----
+
+.. raw:: html
+   
+   <br/>
+
+   <center>
+   <p>Other publications can be found at
+   <a href="http://www.informatik.uni-trier.de/~ley/pers/hd/r/Robby:.html">DBLP</a>
+   or 
+   <a href="http://scholar.google.com/citations?user=j5aiHcsAAAAJ">Google Scholar</a>.
+   </p>
+   </center>
+   
+   <br/> 
+    

@@ -1,0 +1,53 @@
+Teaching
+########
+
+.. include:: def-contact.rst
+
+----
+
+Teaching
+********
+
+----
+
+`CIS 706: Translator Design I <http://compiler.santoslab.org>`__
+================================================================
+
+    The course will teach modern compiler techniques applied to
+    general-purpose programming language. The goal of the course is to
+    give students a working knowledge of the foundations, tools, and
+    engineering approaches used in developing formal language translators.
+    The emphasis is on the construction of compilers to position students
+    to build translators for little languages in their careers.
+
+----
+
+`CIS 501: Software Architecture and Design <http://softwarearch.santoslab.org>`__
+=================================================================================
+
+    This course is about designing and implementing component-based software
+    systems using blueprints and architectural design patterns.
+
+----
+
+`CIS 771: Software Specifications <http://softwarespecs.santoslab.org>`__
+=========================================================================
+
+    The course will teach a collection of techniques that lie at the
+    foundation of an approach to software development that can enable the
+    construction of large highly reliable software. That foundation is
+    specification of the precise meaning of the execution behavior of
+    software. The techniques covered span the development process ranging 
+    from high-level semantic modeling, to system architecture design, and
+    to coding and debugging.
+
+----
+
+CIS 842: Specification and Verification of Reactive Systems
+===========================================================
+
+    This course studies various model-checking techniques with the goal of
+    applying those techniques to real concurrent software systems.
+
+----
+  

@@ -1,0 +1,60 @@
+a:link {
+  text-decoration:none;
+  color:#3F3F3F;
+}
+
+a:visited {
+  text-decoration:none;
+  color:#3F3F3F;
+}
+
+a:hover {
+  text-decoration:underline;
+  color:#000000;
+}
+
+a:active {
+  text-decoration:underline;
+  color:#3F3F3F;
+}
+
+a:target {
+  color: #000000;
+}
+
+body {
+  color:#5F5F5F;
+}
+
+h1 {
+  color:#FFFFFF;
+  font-size:0%;
+}
+
+h2 {
+  color:#7F7F7F;
+  font-size:165%;
+}
+
+h3 {
+  color:#7F7F7F;
+  font-size:145%;
+}
+
+h4 {
+  color:#7F7F7F;
+  font-size:115%;
+}
+
+h5 {
+  color:#7F7F7F;
+  font-size:100%;
+}
+
+.navbar {
+  font-size:large;
+}
+
+.navbar-brand {
+  font-size:110%;
+}

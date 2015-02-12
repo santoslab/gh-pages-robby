@@ -1,0 +1,46 @@
+Projects
+########
+
+.. include:: def-contact.rst
+
+----
+
+Projects
+********
+
+----
+
+`Sireum <http://sireum.org>`__
+==============================
+
+    Sireum is a long-term research effort to develop an over-arching 
+    software analysis platform that incorporates various static analysis 
+    techniques such as data-flow framework, model checking, 
+    symbolic execution, abstract interpretation, and deductive reasoning
+    techniques (e.g., using weakest precondition calculation).
+    
+----
+
+`MDCF <http://mdcf.santos.cis.ksu.edu>`__
+=========================================
+
+     MDCF provides an open-source Medical Device Coordination Framework 
+     for exploring solutions related to designing, implementing, 
+     verifying, and certifying, systems of integrated medical devices. 
+
+----
+
+Past
+====
+
+* `Bandera -- a software model checker for concurrent Java programs 
+  <http://bandera.projects.cis.ksu.edu>`__
+* `Bogor -- a software model checking framework 
+  <http://bogor.projects.cis.ksu.edu/>`__
+* `Cadena -- an Eclipse-based extensible integrated modeling and 
+  development framework for component-based systems
+  <http://cadena.projects.cis.ksu.edu/>`__
+* `JMLEclipse -- an Eclipse-based front-end for the Java Modeling Language 
+  (JML) <http://jmleclipse.projects.cis.ksu.edu/>`__
+    
+----

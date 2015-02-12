@@ -1,0 +1,181 @@
+Funding
+#######
+
+.. include:: def-contact.rst
+
+----
+
+Funding
+*******
+
+----
+
+**CPS: Synergy: Collaborative Research: Trustworthy Composition of Dynamic 
+App-Centric Architectures for Medical Application Platforms**
+
+Co-PI, with |John Hatcliff| (Lead PI), |Steve Warren|, |Eugene Vasserman|, 
+and |Patrice Chalin|; and
+|Insup Lee| and |Oleg Sokolsky| at University of Pennsylvania
+
+
+`National Science Foundation (NSF) OCI-1239543 <http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1239543>`__. 
+Project total: ``$1,000,000``, K-State's portion: ``$880,000``. 
+Duration: October 2012 - September 2015.
+
+----
+
+**Development of a Prototype Healthcare Intranet for Improved Health 
+Outcomes**
+
+Co-PI, with |John Hatcliff| (PI), |Daniel Andresen|, |Eugene Vasserman|, 
+|Steve Warren|
+
+Massachusetts General Hospital -- a sub-contract of National Institutes of
+Health (NIH)/National Institute of Biomedical Imaging and Bioengineering
+(NIBIB) Quantum grant.
+Sub-contract total: ``$475,000``.
+Duration: September 2010 – August 2015.
+
+----
+
+**Evidence-based Trust in Large-scale MLS Systems**
+
+Co-PI, with |John Hatcliff| (Lead PI), |Torben Amtoft|, and |Xinming Ou|; and 
+|Andrew Appel| at Princeton University
+
+Air Force Office of Scientific Research (AFOSR) grant no. FA9550-09-0138.
+Project total: ``$3,000,000``, K-State’s portion: ``$2,012,500``.
+Duration: March 2009 - November 2014.
+
+----
+
+**Enhancing the Cybersecurity and Information Assurance Research and 
+Education Infrastructure of Kansas State University**
+
+Co-PI, with |Xinming Ou| (PI), |Scott DeLoach|, and |John Hatcliff|
+
+Air Force Office of Scientific Research (AFOSR) 
+Defense University Research Instrumentation Program (DURIP).
+Project total: ``$605,650``.
+Year: 2013.
+
+----
+
+**FDA SIR: Tools, Processes, and Artifacts for Certifiable Clinical
+Applications in Interoperable Medical Device Frameworks**
+
+Co-PI, with |Patrice Chalin| (PI), and |John Hatcliff|
+
+`National Science Foundation (NSF) CNS-1238431 <http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1238431>`__.
+Project total: ``$80,000``.
+Duration: October 2012 - September 2013
+
+----
+
+**CPS:Medium:Collaborative Research: Infrastructure and Technology
+Innovations for Medical Device Coordination**
+
+Co-PI, with |John Hatcliff| (Lead PI), |Daniel Andresen|, and 
+|Steve Warren|; and
+|Insup Lee| and |Oleg Sokolsky| at University of Pennsylvania
+
+`National Science Foundation (NSF) CNS-0932289 <http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0932289>`__.
+Project total: ``$1,500,000``, K-State’s portion: ``$840,000``.
+Duration: September 2009 - August 2013.
+
+----
+
+**CAREER: A Formal, Integrated Analysis Framework for Contract-based 
+Reasoning of Strong Properties of Open Systems**
+
+Sole PI
+
+`National Science Foundation (NSF) Faculty Early Career Development 
+(CAREER) CCF-0644288 <http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0644288>`__.
+Project total: ``$400,000``.
+Duration: April 2007 - March 2013.
+
+----
+
+**An Integrated Development and Certification Environment for a Medical 
+Device Coordination Framework**
+
+Co-PI, with |John Hatcliff| (PI), |Gurdip Singh|, |Virgil Wallentine|, and 
+|Steve Warren|
+
+`National Science Foundation (NSF) CNS-1065887 
+<http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1065887>`__.
+Project total: ``$80,000``.
+Duration: January 2010 - December 2012.
+
+----
+
+**A Domain Specific Language for Defining High-Assurance Secure-Network Guards**
+
+Co-PI, with |John Hatcliff| (PI), |Torben Amtoft|, and |Xinming Ou|
+
+Rockwell Collins Advanced Technology Center.
+Project total: ``$170,000``.
+Duration: September 2008 - August 2010.
+
+----
+
+**Collaborative Research: CRI:CRD: A JML Community Infrastructure -- 
+Revitalizing Tools and Documentation to Aid Formal Methods Research**
+
+K-State PI, with
+|Gary Leavens| (Lead PI), |Samik Basu|, |Yoonsik Cheon|, 
+|Curtis Clifton|, |Cormac Flanagan|, |David Naumann|, and 
+|Hridesh Rajan|
+
+`National Science Foundation (NSF) Computing Research Infrastructure 
+(CRI) CNS-0709169 <http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0709169>`__
+Project total: ``$895,000``, K-State’s portion: ``$220,000``
+Duration: July 2007 - June 2010.
+
+----
+
+**Development of an Open Test-bed for Application of Formal Methods to 
+Plug and Play Medical Devices**
+
+Co-PI, with |John Hatcliff| (PI), |Daniel Andresen|, and |Steve Warren|
+
+
+`National Science Foundation (NSF) Computer Systems Research 
+(CSR) CNS-0734204 <http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0734204>`__.
+Project total: ``$55,000``.
+Duration: September 2007 - August 2009.
+
+----
+
+**Organization-based Model-driven Development of High-assurance Multiagent Systems**
+
+Co-PI, with |Scott DeLoach| (PI)
+
+Air Force Office of Scientific Research (AFOSR).
+Project total: ``$481,824``.
+Duration: January 2006 - November 2008.
+
+----
+
+**Analysis and Verification of Large Scale .Net Application Models**
+
+Sole PI
+
+Lockheed Martin Advanced Technology Laboratories.
+Project total and duration:
+
+* ``$50,000``, June 2006 - December 2006; and
+* ``$60,000``, May 2007 - December 2007.
+
+----
+
+**Integrating Java Modeling Language (JML) in Eclipse**
+
+Sole PI
+
+IBM Eclipse Innovation Award.
+Project total: ``$27,000``.
+Year: 2005.
+
+----
