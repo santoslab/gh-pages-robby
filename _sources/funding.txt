@@ -10,6 +10,17 @@ Funding
 
 ----
 
+**FDA SIR: Compositional Approaches to Safety and Risk Management for
+Medical Application Platforms**
+
+Co-PI, with |John Hatcliff| (PI), and |Venkatesh-Prasad Ranganath|
+
+`National Science Foundation (NSF) CNS-1446544 <http://www.nsf.gov/awardsearch/showAward?AWD_ID=1446544>`__.
+Project total: ``$80,000``.
+Duration: March 2015 - February 2016.
+
+----
+
 **CPS: Synergy: Collaborative Research: Trustworthy Composition of Dynamic 
 App-Centric Architectures for Medical Application Platforms**
 
