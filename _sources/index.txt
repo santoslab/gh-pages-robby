@@ -19,6 +19,20 @@ Recent Papers
 
 ----
 
+|Venkatesh-Prasad Ranganath|, |Yu Jin Kim|, |John Hatcliff|, |Robby|:
+Communication Patterns for Composing Medical Systems.
+`EMBC 2015 <http://embc.embs.org/2015/>`__ (to appear).
+
+----
+
+|Yu Jin Kim|, |John Hatcliff|, |Venkatesh-Prasad Ranganath|, |Robby|,
+Sandy Weininger:
+Integrated Clinical Environment Device Model: Stakeholders and High Level 
+Requirements.
+`MedCPS 2015 <http://workshop.medcps.org>`__ (to appear).
+
+----
+
 |Fengguo Wei|, |Sankardas Roy|, |Xinming Ou|, |Robby|:
 `Amandroid: A Precise and General Inter-component Data Flow Analysis Framework 
 for Security Vetting of Android Apps <http://dl.acm.org/citation.cfm?doid=2660267.2660357>`__. 
