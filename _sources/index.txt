@@ -27,8 +27,8 @@ Communication Patterns for Composing Medical Systems.
 
 |Yu Jin Kim|, |John Hatcliff|, |Venkatesh-Prasad Ranganath|, |Robby|,
 Sandy Weininger:
-Integrated Clinical Environment Device Model: Stakeholders and High Level 
-Requirements.
+`Integrated Clinical Environment Device Model: Stakeholders and High Level 
+Requirements <http://santoslab.org/pub/papers/medcps15.pdf>`__.
 `MedCPS 2015 <http://workshop.medcps.org>`__ (to appear).
 
 ----
