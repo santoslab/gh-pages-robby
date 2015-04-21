@@ -17,11 +17,11 @@ Home
 Recent Papers
 *************
 
-----
-
-|Venkatesh-Prasad Ranganath|, |Yu Jin Kim|, |John Hatcliff|, |Robby|:
-Communication Patterns for Composing Medical Systems.
-`EMBC 2015 <http://embc.embs.org/2015/>`__ (to appear).
+.. ----
+   |Venkatesh-Prasad Ranganath|, |Yu Jin Kim|, |John Hatcliff|, |Robby|:
+   Communication Patterns for Composing Medical
+   Systems.
+   `EMBC 2015 <http://embc.embs.org/2015/>`__ (to appear).
 
 ----
 
@@ -35,15 +35,16 @@ Requirements <http://santoslab.org/pub/papers/medcps15.pdf>`__.
 
 |Fengguo Wei|, |Sankardas Roy|, |Xinming Ou|, |Robby|:
 `Amandroid: A Precise and General Inter-component Data Flow Analysis Framework 
-for Security Vetting of Android Apps <http://dl.acm.org/citation.cfm?doid=2660267.2660357>`__. 
+for Security Vetting of Android
+Apps <http://dl.acm.org/citation.cfm?doid=2660267.2660357>`__. 
 `CCS 2014 <http://www.sigsac.org/ccs/CCS2014/>`__: 1329-1341.
 [`Download <http://amandroid.sireum.org>`__]
 
 ----
 
 |Sam Procter|, |John Hatcliff|, |Robby|:
-Towards an AADL-Based Definition of App Architectures for Medical Application 
-Platforms. 
+`Towards an AADL-Based Definition of App Architectures for Medical Application 
+Platforms <http://santoslab.org/pub/papers/sehc14.pdf>`__. 
 `SEHC 2014 <http://fhies-sehc.in.tu-clausthal.de>`__ (to appear).
 
 ----
