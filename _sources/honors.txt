@@ -27,7 +27,7 @@ Current
 * |Sankardas Roy|, Research Associate (**co**; main: |Xinming Ou|)
 * |Fengguo Wei|, Ph.D. Candidate (**co**; main: |Xinming Ou|)
 * |Zhi Zhang|, Ph.D. Candidate (**co**; main: |John Hatcliff|)
-* Yu Jin Kim, Ph.D. Student (**co**; main: |John Hatcliff|)
+* |Yu Jin Kim|, Ph.D. Student (**co**; main: |John Hatcliff|)
 * Hariharan Thiagarajan, Ph.D. Student (**co**; main: |John Hatcliff|)
 
 Past (main only)
