@@ -17,11 +17,11 @@ Home
 Recent Papers
 *************
 
-.. ----
-   |Venkatesh-Prasad Ranganath|, |Yu Jin Kim|, |John Hatcliff|, |Robby|:
-   Communication Patterns for Composing Medical
-   Systems.
-   `EMBC 2015 <http://embc.embs.org/2015/>`__ (to appear).
+----
+
+|Venkatesh-Prasad Ranganath|, |Yu Jin Kim|, |John Hatcliff|, |Robby|:
+Communication Patterns for Composing Medical Systems.
+`EMBC 2015 <http://embc.embs.org/2015/>`__ (to appear).
 
 ----
 
