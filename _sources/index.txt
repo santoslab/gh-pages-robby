@@ -20,7 +20,8 @@ Recent Papers
 ----
 
 |Venkatesh-Prasad Ranganath|, |Yu Jin Kim|, |John Hatcliff|, |Robby|:
-Communication Patterns for Composing Medical Systems.
+`Communication Patterns for Composing Medical
+Systems <http://pub.santoslab.org/papers/embc15.pdf>`__.
 `EMBC 2015 <http://embc.embs.org/2015/>`__ (to appear).
 
 ----
@@ -28,7 +29,7 @@ Communication Patterns for Composing Medical Systems.
 |Yu Jin Kim|, |John Hatcliff|, |Venkatesh-Prasad Ranganath|, |Robby|,
 Sandy Weininger:
 `Integrated Clinical Environment Device Model: Stakeholders and High Level 
-Requirements <http://santoslab.org/pub/papers/medcps15.pdf>`__.
+Requirements <http://pub.santoslab.org/papers/medcps15.pdf>`__.
 `MedCPS 2015 <http://workshop.medcps.org>`__ (to appear).
 
 ----
@@ -44,7 +45,7 @@ Apps <http://dl.acm.org/citation.cfm?doid=2660267.2660357>`__.
 
 |Sam Procter|, |John Hatcliff|, |Robby|:
 `Towards an AADL-Based Definition of App Architectures for Medical Application 
-Platforms <http://santoslab.org/pub/papers/sehc14.pdf>`__. 
+Platforms <http://pub.santoslab.org/papers/sehc14.pdf>`__. 
 `SEHC 2014 <http://fhies-sehc.in.tu-clausthal.de>`__ (to appear).
 
 ----
