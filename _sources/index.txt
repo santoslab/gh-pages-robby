@@ -20,9 +20,9 @@ Recent Papers
 ----
 
 |Venkatesh-Prasad Ranganath|, |Yu Jin Kim|, |John Hatcliff|, |Robby|:
-`Communication Patterns for Composing Medical
+`Communication Patterns for Interconnecting and Composing Medical
 Systems <http://pub.santoslab.org/papers/embc15.pdf>`__.
-`EMBC 2015 <http://embc.embs.org/2015/>`__ (to appear).
+`EMBC 2015 <http://embc.embs.org/2015/>`__ (invited, to appear).
 
 ----
 
