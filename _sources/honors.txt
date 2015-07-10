@@ -29,6 +29,7 @@ Current
 * |Zhi Zhang|, Ph.D. Candidate (**co**; main: |John Hatcliff|)
 * |Yu Jin Kim|, Ph.D. Student (**co**; main: |John Hatcliff|)
 * Hariharan Thiagarajan, Ph.D. Student (**co**; main: |John Hatcliff|)
+* |Chaney Courtney|, M.S. Student (**main**; co: |Venkatesh-Prasad Ranganath|)
 
 Past (main only)
 ================
