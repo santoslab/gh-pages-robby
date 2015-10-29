@@ -8,7 +8,7 @@ Honors
 Honors
 ******
 
-* `ACM SIGSOFT Impact Award <http://www.sigsoft.org/awards/ImpactAward.htm>`__, 2010
+* `ACM SIGSOFT Impact Award <http://www.sigsoft.org/awards/impactPaperAward.html>`__, 2010
 * `ICSE 2000 Most Influential Paper (MIP) Award <http://www.sigsoft.org/awards/mostInfPapAwd.htm>`__, 2010
 * `NSF CAREER Award <http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0644288>`__, 2007
 * NASA Turning Goals into Reality (TGIR) Award, 2003
@@ -24,8 +24,6 @@ Current
 =======
 
 * |Jason Belt|, Ph.D. Candidate (**main**; co: |John Hatcliff|)
-* |Sankardas Roy|, Research Associate (**co**; main: |Xinming Ou|)
-* |Fengguo Wei|, Ph.D. Candidate (**co**; main: |Xinming Ou|)
 * |Zhi Zhang|, Ph.D. Candidate (**co**; main: |John Hatcliff|)
 * |Yu Jin Kim|, Ph.D. Student (**co**; main: |John Hatcliff|)
 * Hariharan Thiagarajan, Ph.D. Student (**co**; main: |John Hatcliff|)
