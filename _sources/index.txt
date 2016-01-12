@@ -22,14 +22,14 @@ Recent Papers
 |Yu Jin Kim|, |Sam Procter|, |John Hatcliff|, 
 |Venkatesh-Prasad Ranganath|, |Robby|:
 `Ecosphere Principles for Medical Application Platforms`.
-`ICHI 2015 <http://cs.utdallas.edu/ichi2015/>`__ (to appear).
+`ICHI 2015 <http://cs.utdallas.edu/ichi2015/>`__: 193-198.
 
 ----
 
 |Venkatesh-Prasad Ranganath|, |Yu Jin Kim|, |John Hatcliff|, |Robby|:
 `Communication Patterns for Interconnecting and Composing Medical
 Systems <http://pub.santoslab.org/papers/embc15.pdf>`__.
-`EMBC 2015 <http://embc.embs.org/2015/>`__ (invited, to appear).
+`EMBC 2015 <http://embc.embs.org/2015/>`__: 1711-1716.
 
 ----
 
