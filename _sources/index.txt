@@ -80,28 +80,6 @@ AOP <http://dl.acm.org/citation.cfm?id=2451453>`__.
 
 ----
 
-Xianghua Deng, |Jooyong Lee|, |Robby|: `Efficient and Formal Generalized 
-Symbolic Execution <http://link.springer.com/article/10.1007%2Fs10515-011-0089-9>`__.
-`Autom. Softw. Eng. <http://www.springer.com/computer/ai/journal/10515>`__ 
-19(3): 233-301 (2012).
-
-----
-
-|Jason Belt|, |Robby|, |Patrice Chalin|, |John Hatcliff|, Xianghua Deng: 
-`Efficient Symbolic Execution of Value-Based Data Structures for Critical 
-Systems <http://link.springer.com/chapter/10.1007%2F978-3-642-28891-3_29>`__. 
-`NFM 2012 <http://shemesh.larc.nasa.gov/nfm2012/>`__: 295-309.
-
-----
-
-Hariharan Thiagarajan, |John Hatcliff|, |Jason Belt|, |Robby|: 
-`Bakar Alir: Supporting Developers in Construction of Information Flow 
-Contracts in SPARK 
-<http://www.computer.org/csdl/proceedings/scam/2012/4783/00/4783a132-abs.html>`__. 
-`SCAM 2012 <http://www.ieee-scam.org/2012/>`__: 132-137.
-
-----
-
 .. raw:: html
    
    <br/>
