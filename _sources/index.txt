@@ -12,6 +12,14 @@ Home
 
 .. include:: def-contact.rst
 
+.. raw:: html
+
+   <hr/>
+
+   <center>
+   I'm currently at <a href="http://galois.com">Galois</a> until the end of summer
+   </center>
+
 ----
 
 Recent Papers
