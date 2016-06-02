@@ -32,7 +32,6 @@ Recent Papers
 Technical Report SAnToS-TR2016-03-11, SAnToS Laboratory, Department of
 Computing and Information Sciences, Kansas State University, March 2016.
 [`Coq proofs and experiment data <http://pub.santoslab.org/TR/SAnToS-TR2016-03-11/>`__]
-(submitted for publication).
 
 ----
 
