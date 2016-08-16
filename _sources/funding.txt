@@ -10,6 +10,16 @@ Funding
 
 ----
 
+**FDA SIR: Architecturally-Integrated Hazard Analyses for Medical Application Platforms**
+
+Co-PI, with |John Hatcliff| (PI), and |Venkatesh-Prasad Ranganath|
+
+`National Science Foundation (NSF) CNS-1565544 <http://www.nsf.gov/awardsearch/showAward?AWD_ID=1565544>`__.
+Project total: ``$80,000``.
+Duration: August 2016 - July 2017.
+
+----
+
 **FDA SIR: Compositional Approaches to Safety and Risk Management for
 Medical Application Platforms**
 
