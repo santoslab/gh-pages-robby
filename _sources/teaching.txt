@@ -10,15 +10,14 @@ Teaching
 
 ----
 
-`CIS 301: Logical Foundations of Programming <http://f15.proglogics.santoslab.org>`__
+`CIS 301: Logical Foundations of Programming <http://f16.proglogics.santoslab.org>`__
 =====================================================================================
 
     This course teaches the basic elements found in a formal logic including
     syntax for claims and rules for making deductions, as well as on how to 
     judge if the rules are suitable in the sense that they only lead to claims
     that match the reality of the domain that are being reasoned.
-    The focus will be on formal logics for reasoning about program behavior and
-    for programming directly in terms of logic. 
+    The focus will be on formal logics for reasoning about program behavior.
 
 ----
 

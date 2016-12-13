@@ -32,11 +32,11 @@ Past (main only)
 * |Jooyong Yi|, Postdoctoral, 2007 -- 2010, now postdoc at NUS
 * Xianghua Deng, Ph.D., 2007, now at Google (co: |John Hatcliff|)
 * Vidit Ochani, M.S., 2013, now at Amazon
-* Ashish Panday, M.S., 2010, was at Microsoft
+* Ashish Panday, M.S., 2010, first job at Microsoft
 * |Andrew King|, M.S., 2009, now Ph.D. Student at UPenn
-* Neelesh Thakur, M.S., 2007, was at Sprint, now at Schlumberger Information Solutions
+* Neelesh Thakur, M.S., 2007, first job at Sprint, now at Schlumberger Information Solutions
 * Yong Peng, M.S.E., 2005
-* Paween Piyasil, M.S.E., 2005, now at Dynamic Leap Technology
+* Paween Piyasil, M.S.E., 2005, now at Mogo
 * Yu Chen, M.S., 2005, now at Google
 * Min Zou, M.S., 2003
 
