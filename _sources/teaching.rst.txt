@@ -30,7 +30,7 @@ Teaching
 ----
 
 `CIS 706: Translator Design I <http://compilers.santoslab.org>`__
-================================================================
+=================================================================
 
     The course teaches modern compiler techniques applied to
     general-purpose programming language. The goal of the course is to
