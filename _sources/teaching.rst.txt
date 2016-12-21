@@ -29,7 +29,7 @@ Teaching
 
 ----
 
-`CIS 706: Translator Design I <http://compiler.santoslab.org>`__
+`CIS 706: Translator Design I <http://compilers.santoslab.org>`__
 ================================================================
 
     The course teaches modern compiler techniques applied to
