@@ -15,8 +15,9 @@ Funding
 Co-PI, with |John Hatcliff| (K-State PI), and |Eugene Vasserman|; and
 |Rand Whillock| (Lead PI) and |Todd Carpenter| at |Adventium Labs|
 
-`Defense Health Program (DHP), Small Business Innovation Research (SBIR) DHP15-004, Phase II <http://www.acq.osd.mil/osbp/sbir/solicitations/sbir20151/dhp151.htm>`__.
-Project total: ``$1,000,000``; K-State's portion: ``$339,187``.
+`United States Army Medical Research Acquisition Activity (USAMRAA) <http://www.usamraa.army.mil>`__
+`Defense Health Program (DHP) -- Small Business Innovation Research (SBIR) DHP15-004, Phase II <http://www.acq.osd.mil/osbp/sbir/solicitations/sbir20151/dhp151.htm>`__.
+Project total: ``$999,974.04``; K-State's portion: ``$339,187``.
 Duration: September 2016 - September 2018.
 
 ----
