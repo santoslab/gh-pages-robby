@@ -19,10 +19,9 @@ Recent Papers
 ----
 
 |Zhi Zhang|, |Robby|, |John Hatcliff|, |Yannick Moy|, |Pierre Courtieu|:
-`Who Checks The Checkers? You Won't Believe The Answer To This One <http://pub.santoslab.org/TR/SAnToS-TR2016-03-11/SAnToS-TR2016-03-11.pdf>`__.
-Technical Report SAnToS-TR2016-03-11, SAnToS Laboratory, Department of
-Computing and Information Sciences, Kansas State University, March 2016.
-[`Coq proofs and experiment data <http://pub.santoslab.org/TR/SAnToS-TR2016-03-11/>`__]
+`Focused Certification of an Industrial Compilation and Static Verification Toolchain <http://pub.santoslab.org/TR/SAnToS-TR2016-03-11/SAnToS-TR2016-03-11.pdf>`__.
+`SEFM 2017 <http://sefm17.fbk.eu/home>`__ (to appear)
+[`Coq proofs and experiment data <http://pub.santoslab.org/TR/SAnToS-TR2016-03-11/>`__].
 
 ----
 
