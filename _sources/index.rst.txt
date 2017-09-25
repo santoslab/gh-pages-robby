@@ -19,8 +19,8 @@ Recent Papers
 ----
 
 |Zhi Zhang|, |Robby|, |John Hatcliff|, |Yannick Moy|, |Pierre Courtieu|:
-`Focused Certification of an Industrial Compilation and Static Verification Toolchain <http://pub.santoslab.org/TR/SAnToS-TR2016-03-11/SAnToS-TR2016-03-11.pdf>`__.
-`SEFM 2017 <http://sefm17.fbk.eu/home>`__ (to appear)
+`Focused Certification of an Industrial Compilation and Static Verification Toolchain <https://link.springer.com/chapter/10.1007%2F978-3-319-66197-1_2>`__.
+`SEFM 2017 <http://sefm17.fbk.eu/home>`__: 17-34.
 [`Coq proofs and experiment data <http://pub.santoslab.org/TR/SAnToS-TR2016-03-11/>`__].
 
 ----

@@ -29,7 +29,7 @@ Current
 Past (main only)
 ================
 
-* |Jooyong Yi|, Postdoctoral, 2007 -- 2010, now postdoc at NUS
+* |Jooyong Yi|, Postdoctoral, 2007 -- 2010, now at Innopolis University
 * Xianghua Deng, Ph.D., 2007, now at Google (co: |John Hatcliff|)
 * Vidit Ochani, M.S., 2013, now at Amazon
 * Ashish Panday, M.S., 2010, first job at Microsoft
