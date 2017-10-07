@@ -10,7 +10,7 @@ Teaching
 
 ----
 
-`CIS 301: Logical Foundations of Programming <http://f16.proglogics.santoslab.org>`__
+`CIS 301: Logical Foundations of Programming <http://f17.proglogics.santoslab.org>`__
 =====================================================================================
 
     This course teaches the basic elements found in a formal logic including
