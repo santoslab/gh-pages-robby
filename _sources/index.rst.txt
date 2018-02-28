@@ -18,6 +18,12 @@ Recent Papers
 
 ----
 
+|Fengguo Wei|, |Sankardas Roy|, |Xinming Ou|, |Robby|:
+Amandroid: A Precise and General Inter-component Data Flow Analysis Framework for Security Vetting of Android Apps.
+`ACM TOPS <https://tops.acm.org/>`__ (to appear).
+
+----
+
 |Zhi Zhang|, |Robby|, |John Hatcliff|, |Yannick Moy|, |Pierre Courtieu|:
 `Focused Certification of an Industrial Compilation and Static Verification Toolchain <https://link.springer.com/chapter/10.1007%2F978-3-319-66197-1_2>`__.
 `SEFM 2017 <http://sefm17.fbk.eu/home>`__: 17-34.

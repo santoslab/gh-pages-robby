@@ -10,6 +10,15 @@ Funding
 
 ----
 
+**Fault Injection and Analysis for Safety and Security**
+
+Co-PI, with |John Hatcliff| (PI) and |Eugene Vasserman|.
+SEI/CMU -- a sub-contract of US Air Force award no. FA8702-15-D-0002.
+Sub-contract total: ``$100,5000``.
+Duration: February - December 2018.
+
+----
+
 **Methodologies and Tools for Securing Medical Device Systems in Integrated Clinical Environments (ICE)**
 
 Co-PI, with |John Hatcliff| (K-State PI), and |Eugene Vasserman|; and
