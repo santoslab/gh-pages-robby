@@ -10,25 +10,10 @@ Projects
 
 ----
 
-`Sireum <http://sireum.org>`__
-==============================
+Current
+=======
 
-    Sireum is a long-term research effort to develop an over-arching 
-    software analysis platform that incorporates various static analysis 
-    techniques such as data-flow framework, model checking, 
-    symbolic execution, abstract interpretation, and deductive reasoning
-    techniques (e.g., using weakest precondition calculation).
-    
-----
-
-`MDCF <http://mdcf.santos.cis.ksu.edu>`__
-=========================================
-
-     MDCF provides an open-source Medical Device Coordination Framework 
-     for exploring solutions related to designing, implementing, 
-     verifying, and certifying, systems of integrated medical devices. 
-
-----
+* `Sireum -- A High-Assurance Software Development Platform <http://sireum.org>`__
 
 Past
 ====
@@ -42,5 +27,6 @@ Past
   <http://cadena.projects.cis.ksu.edu/>`__
 * `JMLEclipse -- an Eclipse-based front-end for the Java Modeling Language 
   (JML) <http://jmleclipse.projects.cis.ksu.edu/>`__
-    
+* `MDCF <http://mdcf.santos.cis.ksu.edu>`__
+
 ----
