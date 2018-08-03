@@ -16,8 +16,8 @@ Co-PI, with |John Hatcliff| (PI) and |Eugene Vasserman|.
 
 `Carnegie Mellon University (CMU)/Software Engineering Institute (SEI) <https://www.sei.cmu.edu/>`__ --
 a sub-contract of US Air Force award no. FA8702-15-D-0002.
-Sub-contract total: ``$100,5000``.
-Duration: February - December 2018.
+Sub-contract total: ``$100,500``.
+Duration: February 2018 - January 2019.
 
 ----
 
