@@ -14,7 +14,7 @@ Funding
 
 K-State PI, with |John Hatcliff| (Co-PI); and |John Shackleton| (Lead PI) and |Todd Carpenter| at |Adventium Labs|
 
-|RC| Advanced Technology Center (ATC) --
+Collins Aerospace -- |RC|,
 a sub-contract of
 `Defense Advanced Research Projects Agency (DARPA) Cyber Assured Systems Engineering (CASE) <https://www.darpa.mil/program/cyber-assured-systems-engineering>`__
 Technical Area (TA) 5: *Build and Research Interface Environment for CASE (BriefCASE)*
@@ -28,7 +28,7 @@ Duration: August 2018 - January 2022; K-State's duration: August 2018 - March 20
 
 Co-PI, with |John Hatcliff| (PI) and |Eugene Vasserman|.
 
-|SEI| --
+|SEI|,
 a sub-contract of US Air Force award no. FA8702-15-D-0002.
 Sub-contract total: ``$100,500``.
 Duration: February 2018 - January 2019.
@@ -88,7 +88,7 @@ Outcomes**
 Co-PI, with |John Hatcliff| (PI), |Daniel Andresen|, |Eugene Vasserman|, 
 |Steve Warren|
 
-Massachusetts General Hospital -- a sub-contract of National Institutes of
+Massachusetts General Hospital, a sub-contract of National Institutes of
 Health (NIH)/National Institute of Biomedical Imaging and Bioengineering
 (NIBIB) Quantum grant.
 Sub-contract total: ``$475,000``.
