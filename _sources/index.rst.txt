@@ -32,7 +32,7 @@ Recent Papers
 ----
 
 |Robby|, |John Hatcliff|, |Jason Belt|:
-Model-Based Development for High-Assurance Embedded Systems.
+`Model-Based Development for High-Assurance Embedded Systems <https://link.springer.com/chapter/10.1007%2F978-3-030-03418-4_32>`__.
 |ISoLA| (1) 2018: 539-545.
 
 ----
