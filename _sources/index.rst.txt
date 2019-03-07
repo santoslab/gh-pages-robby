@@ -25,6 +25,18 @@ Recent Papers
 
 ----
 
+|John Hatcliff|, Brian R. Larson, |Jason Belt|, |Robby|, Yi Zhang:
+`A Unified Approach for Modeling, Developing, and Assuring Critical Systems <https://link.springer.com/chapter/10.1007%2F978-3-030-03418-4_14>`__.
+|ISoLA| (1) 2018: 225-245.
+
+----
+
+|Robby|, |John Hatcliff|, |Jason Belt|:
+Model-Based Development for High-Assurance Embedded Systems.
+|ISoLA| (1) 2018: 539-545.
+
+----
+
 |Zhi Zhang|, |Robby|, |John Hatcliff|, |Yannick Moy|, |Pierre Courtieu|:
 `Focused Certification of an Industrial Compilation and Static Verification Toolchain <https://link.springer.com/chapter/10.1007%2F978-3-319-66197-1_2>`__.
 `SEFM 2017 <http://sefm17.fbk.eu/home>`__: 17-34.
@@ -67,29 +79,6 @@ Apps <http://dl.acm.org/citation.cfm?doid=2660267.2660357>`__.
 `Towards an AADL-Based Definition of App Architectures for Medical Application 
 Platforms <http://pub.santoslab.org/papers/sehc14.pdf>`__. 
 `FHIES/SEHC 2014 <http://fhies-sehc.in.tu-clausthal.de>`__: 26-43.
-
-----
-
-|Pierre Courtieu|, |Maria Virginia Aponte|, |Tristan Crolard|, |Zhi Zhang|, 
-|Robby|, |Jason Belt|, |John Hatcliff|, |Jerome Guitton|, |Trevor Jennings|: 
-`Towards The Formalization of SPARK 2014 Semantics With Explicit Run-time
-Checks Using Coq <http://dl.acm.org/citation.cfm?id=2527269.2527278>`__.
-`HILT 2013 <http://www.sigada.org/conf/hilt2013/>`__: 21-22.
-[`Coq doc and source <http://sireum.github.io/doc/bakar/index.html#document-formalization/spark2014-semantics>`__].
-  
-----
-
-|John Hatcliff|, |Robby|, |Patrice Chalin|, |Jason Belt|: 
-`Explicating Symbolic Execution (xSymExe): An Evidence-Based Verification 
-Framework <http://dl.acm.org/citation.cfm?id=2486818>`__. 
-`ICSE 2013 <http://2013.icse-conferences.org>`__: 222-231.
-
-----
-
-|Jooyong Yi|, |Robby|, Xianghua Deng, |Abhik Roychoudhury|: 
-`Past Expression: Encapsulating Pre-states at Post-conditions by Means of 
-AOP <http://dl.acm.org/citation.cfm?id=2451453>`__.
-`AOSD 2013 <http://aosd.net/2013/>`__: 133-144.
 
 ----
 
