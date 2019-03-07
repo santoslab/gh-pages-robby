@@ -15,7 +15,7 @@ Funding
 Co-PI, with |John Hatcliff| (PI) and |Eugene Vasserman|.
 
 |SEI|.
-Project total: ``420,000``.
+Project total: ``$420,000``.
 Duration: March 2019 - September 2020.
 
 ----
