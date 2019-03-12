@@ -23,7 +23,7 @@ Supervision
 Current
 =======
 
-* |Jason Belt|, Ph.D. Candidate (**main**; co: |John Hatcliff|)
+* |Jason Belt|, Research Associate (**main**; co: |John Hatcliff|)
 * Hariharan Thiagarajan, Ph.D. Student (**co**; main: |John Hatcliff|)
 
 Past (main only)
