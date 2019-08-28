@@ -23,20 +23,21 @@ Supervision
 Current
 =======
 
-* |Jason Belt|, Research Associate (**main**; co: |John Hatcliff|)
+* Jason Belt, Research Associate (**main**; co: |John Hatcliff|)
+* Joydeep Mitra, Ph.D. Candidate (**main**; co: |Torben Amtoft|)
 * Hariharan Thiagarajan, Ph.D. Student (**co**; main: |John Hatcliff|)
 
 Past (main only)
 ================
 
-* |Jooyong Yi|, Postdoctoral, 2007 -- 2010, now at Innopolis University
+* |Jooyong Yi|, Postdoctoral, 2007 -- 2010, now at UNIST
 * Xianghua Deng, Ph.D., 2007, now at Google (co: |John Hatcliff|)
 * Vidit Ochani, M.S., 2013, now at Amazon
 * Ashish Panday, M.S., 2010, first job at Microsoft
-* |Andrew King|, M.S., 2009, now Ph.D. Student at UPenn
-* Neelesh Thakur, M.S., 2007, first job at Sprint, now at Schlumberger Information Solutions
+* Andrew King, M.S., 2009, now at Zoox
+* Neelesh Thakur, M.S., 2007, now at Schlumberger Information Solutions
 * Yong Peng, M.S.E., 2005
-* Paween Piyasil, M.S.E., 2005, now at Mogo
+* Paween Piyasil, M.S.E., 2005, now at Kasikorn Business Technology Group
 * Yu Chen, M.S., 2005, now at Google
 * Min Zou, M.S., 2003
 
