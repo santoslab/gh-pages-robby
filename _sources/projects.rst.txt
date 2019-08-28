@@ -13,7 +13,7 @@ Projects
 Current
 =======
 
-* `Sireum -- A High-Assurance Software Development Platform <http://sireum.org>`__
+* `Sireum -- A High-Assurance System Engineering Platform <http://sireum.org>`__
 
 Past
 ====

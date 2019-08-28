@@ -10,27 +10,47 @@ Funding
 
 ----
 
-**AADL Analyses & Modeling Strategies for Safety and Security**
-
-Co-PI, with |John Hatcliff| (PI) and |Eugene Vasserman|.
-
-|SEI|.
-Project total: ``$420,000``.
-Duration: March 2019 - September 2020.
-
-----
-
-**Cyber Assured Systems Engineering (CASE) TA5: Architecture Translation for High-Assurance Embedded Systems with Separation Kernels**
+**Cyber Assured Systems Engineering (CASE): Architecture Translation and Information Flow Analysis for High-Assurance Embedded Systems with Separation Kernels**
 
 K-State PI, with |John Hatcliff| (Co-PI); and |John Shackleton| (Lead PI) and |Todd Carpenter| at |Adventium Labs|
 
 |Collins| --
 a sub-contract of
 `Defense Advanced Research Projects Agency (DARPA) Cyber Assured Systems Engineering (CASE) <https://www.darpa.mil/program/cyber-assured-systems-engineering>`__
-Technical Area (TA) 5: *Build and Research Interface Environment for CASE (BriefCASE)*
 Other Transaction Agreement (OTA) no. HR00111890001.
-Sub-contract total: ``$800,000``; K-State's portion: ``$300,000``.
-Duration: August 2018 - January 2022; K-State's duration: August 2018 - March 2021.
+Sub-contract total: ``$950,000`` (K-State's portion: ``$375,000``).
+Duration: August 2018 - January 2022 (K-State's duration: August 2018 - March 2021).
+
+----
+
+**AADL Analyses & Modeling Strategies for Safety and Security**
+
+Co-PI, with |John Hatcliff| (PI) and |Eugene Vasserman|.
+
+|SEI|.
+Project total: ``$420,000``.
+Duration: May 2019 - September 2020.
+
+----
+
+**High-Assurance Model-Based System Engineering for Safety and Security**
+
+PI, with |John Hatcliff| (co-PI).
+
+|Collins|.
+Project total: ``$589,909``.
+Duration: May 2019 - August 2020.
+
+----
+
+**GUMBO: Grand Unified Modeling of Behavior Operators**
+
+Co-PI, with |John Hatcliff| (K-State PI); and
+|Rand Whillock| (Lead PI) and |Todd Carpenter| at |Adventium Labs|.
+
+|AMRDEC| Small Business Innovation Research (SBIR) Phase I.
+Project total: ``$100,000`` (K-State’s portion: ``$10,000``).
+Duration: April - August 2019.
 
 ----
 
@@ -47,7 +67,7 @@ Duration: February 2018 - January 2019.
 **Methodologies and Tools for Securing Medical Device Systems in Integrated Clinical Environments (ICE)**
 
 Co-PI, with |John Hatcliff| (K-State PI), and |Eugene Vasserman|; and
-|Rand Whillock| (Lead PI) and |Todd Carpenter| at |Adventium Labs|
+|Rand Whillock| (Lead PI) and |Todd Carpenter| at |Adventium Labs|.
 
 |USAMRAA|
 `Defense Health Program (DHP) -- Small Business Innovation Research (SBIR) DHP15-004, Phase II <http://www.acq.osd.mil/osbp/sbir/solicitations/sbir20151/dhp151.htm>`__.
