@@ -43,6 +43,17 @@ Duration: May 2019 - August 2020.
 
 ----
 
+**Information Flow Control for Microkernels**
+
+Co-PI, with |John Hatcliff| (K-State PI); and
+|Rand Whillock| (Lead PI) and |Todd Carpenter| at |Adventium Labs|.
+
+|AFRL| Small Business Innovation Research (SBIR) Phase I.
+Project total: ``$150,000`` (K-State’s portion: ``$46,724``).
+Duration: July 2019 - January 2020.
+
+----
+
 **GUMBO: Grand Unified Modeling of Behavior Operators**
 
 Co-PI, with |John Hatcliff| (K-State PI); and

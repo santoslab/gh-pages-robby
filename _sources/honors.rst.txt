@@ -25,7 +25,7 @@ Current
 
 * Jason Belt, Research Associate (**main**; co: |John Hatcliff|)
 * Joydeep Mitra, Ph.D. Candidate (**main**; co: |Torben Amtoft|)
-* Hariharan Thiagarajan, Ph.D. Student (**co**; main: |John Hatcliff|)
+* Hariharan Thiagarajan, Ph.D. Candidate (**co**; main: |John Hatcliff|)
 
 Past (main only)
 ================
