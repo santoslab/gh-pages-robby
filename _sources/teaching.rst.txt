@@ -10,6 +10,18 @@ Teaching
 
 ----
 
+`CIS 706/801: Translator Design I & II <http://compilers.santoslab.org>`__
+==========================================================================
+
+    The course teaches modern compiler techniques applied to
+    general-purpose programming language. The goal of the course is to
+    give students a working knowledge of the foundations, tools, and
+    engineering approaches used in developing formal language translators.
+    The emphasis is on the construction of compilers to position students
+    to build translators for little languages in their careers.
+
+----
+
 `CIS 301: Logical Foundations of Programming <http://f17.proglogics.santoslab.org>`__
 =====================================================================================
 
@@ -26,18 +38,6 @@ Teaching
 
     This course is about designing and implementing component-based software
     systems using blueprints and architectural design patterns.
-
-----
-
-`CIS 706: Translator Design I <http://compilers.santoslab.org>`__
-=================================================================
-
-    The course teaches modern compiler techniques applied to
-    general-purpose programming language. The goal of the course is to
-    give students a working knowledge of the foundations, tools, and
-    engineering approaches used in developing formal language translators.
-    The emphasis is on the construction of compilers to position students
-    to build translators for little languages in their careers.
 
 ----
 
