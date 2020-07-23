@@ -24,12 +24,12 @@ Current
 =======
 
 * Jason Belt, Research Associate (**main**; co: |John Hatcliff|)
-* Joydeep Mitra, Ph.D. Candidate (**main**; co: |Torben Amtoft|)
 * Hariharan Thiagarajan, Ph.D. Candidate (**co**; main: |John Hatcliff|)
 
 Past (main only)
 ================
 
+* Joydeep Mitra, Ph.D., 2020, first job at NYU (co: |Venkatesh-Prasad Ranganath|)
 * |Jooyong Yi|, Postdoctoral, 2007 -- 2010, now at UNIST
 * Xianghua Deng, Ph.D., 2007, now at Google (co: |John Hatcliff|)
 * Vidit Ochani, M.S., 2013, now at Amazon
