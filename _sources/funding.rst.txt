@@ -14,7 +14,10 @@ Funding
 
 PI, with |John Hatcliff| (co-PI).
 
-|Collins|.
+|Collins| --
+a sub-contract of
+`Defense Advanced Research Projects Agency (DARPA) Cyber Assured Systems Engineering (CASE) <https://www.darpa.mil/program/cyber-assured-systems-engineering>`__
+Other Transaction Agreement (OTA) no. HR00111890001.
 Project total: ``$1,139,909``.
 Duration: May 2019 - Feb 2022.
 
