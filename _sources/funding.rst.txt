@@ -49,7 +49,7 @@ Duration: May 2019 - September 2020.
 **Information Flow Control for Microkernels**
 
 Co-PI, with |John Hatcliff| (K-State PI); and
-|Rand Whillock| (Lead PI) and |Todd Carpenter| at |Adventium Labs|.
+|Todd Carpenter| (Lead PI) at |Adventium Labs|.
 
 |AFRL| Small Business Innovation Research (SBIR) Phase I.
 Project total: ``$150,000`` (K-State’s portion: ``$46,724``).
