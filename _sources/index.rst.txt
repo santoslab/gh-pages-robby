@@ -19,8 +19,8 @@ Recent Papers
 ----
 
 Hariharan Thiagarajan, |John Hatcliff|, |Robby|:
-Awas: AADL Information Flow and Error Propagation Analysis Framework.
-`DETECT 2020 <https://detect.ensma.fr/2020/>`__ (to appear).
+`Awas: AADL Information Flow and Error Propagation Analysis Framework <https://link.springer.com/chapter/10.1007%2F978-3-030-59155-7_23>`__.
+`DETECT <https://detect.ensma.fr/2020/>`__: 294-310, 2020.
 
 ----
 
@@ -68,7 +68,7 @@ Systems <http://pub.santoslab.org/papers/embc15.pdf>`__.
 Sandy Weininger:
 `Integrated Clinical Environment Device Model: Stakeholders and High Level 
 Requirements <http://pub.santoslab.org/papers/medcps15.pdf>`__.
-`MedCPS 2015 <http://workshop.medcps.org>`__ (to appear).
+`MedCPS 2015 <http://workshop.medcps.org>`__.
 
 ----
 
