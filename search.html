@@ -14,10 +14,16 @@
     <script src="_static/underscore.js"></script>
     <script src="_static/doctools.js"></script>
     <script src="_static/language_data.js"></script>
+    <script src="_static/searchtools.js"></script>
+    <script src="_static/js/jquery-1.11.0.min.js"></script>
+    <script src="_static/js/jquery-fix.js"></script>
+    <script src="_static/bootstrap-3.3.7/js/bootstrap.min.js"></script>
+    <script src="_static/bootstrap-sphinx.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="#" />
-  <script type="text/javascript" src="_static/searchtools.js "></script>
-  <script type="text/javascript" src="searchindex.js "></script>
+  <script type="text/javascript">
+    jQuery(function() { Search.loadIndex("searchindex.js"); });
+  </script>
   
   <script type="text/javascript" id="searchindexloader"></script>
   
@@ -73,7 +79,7 @@
 
 <div class="container">
   <div class="row">
-    <div class="body col-md-12 content" role="main">
+    <div class="col-md-12 content">
       
   <h1 id="search-documentation">Search</h1>
   <div id="fallback" class="admonition warning">
@@ -97,9 +103,9 @@
     </div>
     <input type="submit" class="btn btn-default" value="search" />
     <span id="search-progress" style="padding-left: 10px"></span>
-  </form>
+  </form>  
   
-
+  
   
   <div id="search-results">
   
