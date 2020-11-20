@@ -10,6 +10,17 @@ Funding
 
 ----
 
+**SIRFUR: Software Implementation from Rigorous Formal Usable Requirements**
+
+K-State PI, with |John Hatcliff| (co-PI); and
+|Todd Carpenter| (Lead PI) at |Adventium Labs|.
+
+|DARPA| Small Business Innovation Research (SBIR) Phase II.
+Project total: ``$1,499,766`` (K-State’s portion: ``$693,000``).
+Duration: October 2020 - December 2023.
+
+----
+
 **GUMBO II: Grand Unified Modeling of Behavior Operators**
 
 Co-PI, with |John Hatcliff| (K-State PI); and
