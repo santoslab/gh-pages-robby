@@ -25,10 +25,9 @@ K-State PI, with John Hatcliff (co-PI); and Todd Carpenter (Lead PI) at Adventiu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://robby.santoslab.org/papers/</guid>
-      <description>Recent Papers Darren Cofer, Isaac Amundson, Junaid Babar, David Hardin, Konrad Slind, Perry Alexander, John Hatcliff, Robby, Gerwin Klein, Corey Lewis, Eric Mercer, John Shackleton: Cyberassured Systems Engineering at Scale. IEEE S&amp;amp;P: 2-14.
-Robby, John Hatcliff: Slang: The Sireum Programming Language. ISoLA 2021: 253-273. [presentation]
-John Hatcliff, Jason Belt, Robby, Todd Carpenter: HAMR: An AADL Multi-Platform Code Generation Toolset. ISoLA 2021: 274-295. [presentation]
-Hariharan Thiagarajan, John Hatcliff, Robby: Awas: An Information Flow and Error Propagation Analysis Framework for the AADL Modeling Language.</description>
+      <description>Recent Papers Jason Belt, John Hatcliff, Robby, John Shackleton, Jim Carciofini, Todd Carpenter, Eric Mercer, Isaac Amundson, Junaid Babar, Darren Cofer, David Hardin, Karl Hoech, Konrad Slind, Ihor Kuz, Kent McLeod: Model-driven development for the seL4 microkernel using the HAMR framework. JSA 134: 102789, 2023.
+John Hatcliff, Danielle Stewart, Jason Belt, Robby: An AADL Contract Language Supporting Integrated Model- and Code-Level Verification. HILT 2022 (to appear).
+Hariharan Thiagarajan, John Hatcliff, Robby: Awas: AADL information flow and error propagation analysis framework.</description>
     </item>
     
     <item>
