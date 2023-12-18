@@ -5,54 +5,35 @@
     <link>https://robby.santoslab.org/</link>
     <description>Recent content on Robby&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://robby.santoslab.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://robby.santoslab.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://robby.santoslab.org/funding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://robby.santoslab.org/funding/</guid>
-      <description>Funding MAILLE: Microkernal Application Information fLow with Logic-based Enforcement
-John Hatcliff (K-State PI), Robby; and Todd Carpenter (Lead PI) at Adventium Labs
-U.S. Air Force Research Laboratory (AFRL) Small Business Innovation Research (SBIR) Phase II
-Project total: $749,957 (K-State&#39;s portion: $347,000)
-Duration: May 2021 - April 2023 SIRFUR: Software Implementation from Rigorous Formal Usable Requirements
-Robby (K-State PI), John Hatcliff; and Todd Carpenter (Lead PI) at Adventium Labs
-Defense Advanced Research Projects Agency (DARPA) Small Business Innovation Research (SBIR) Phase II</description>
+      <description>Funding MAILLE: Microkernal Application Information fLow with Logic-based Enforcement&#xA;John Hatcliff (K-State PI), Robby; and Todd Carpenter (Lead PI) at Adventium Labs&#xA;U.S. Air Force Research Laboratory (AFRL) Small Business Innovation Research (SBIR) Phase II&#xA;Project total: $749,957 (K-State&#39;s portion: $347,000)&#xA;Duration: May 2021 - April 2023 SIRFUR: Software Implementation from Rigorous Formal Usable Requirements&#xA;Robby (K-State PI), John Hatcliff; and Todd Carpenter (Lead PI) at Adventium Labs&#xA;Defense Advanced Research Projects Agency (DARPA) Small Business Innovation Research (SBIR) Phase II</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://robby.santoslab.org/papers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://robby.santoslab.org/papers/</guid>
-      <description>Recent Papers John Hatcliff, Robby, Jason Belt, Jacob Legg, Danielle Stewart, Todd Carpenter: Automated Property-based Testing from AADL Component Contracts. FMICS 2023 (to appear). Jason Belt, John Hatcliff, Robby, John Shackleton, Jim Carciofini, Todd Carpenter, Eric Mercer, Isaac Amundson, Junaid Babar, Darren Cofer, David Hardin, Karl Hoech, Konrad Slind, Ihor Kuz, Kent McLeod: Model-driven development for the seL4 microkernel using the HAMR framework. JSA 134: 102789, 2023. John Hatcliff, Danielle Stewart, Jason Belt, Robby: An AADL Contract Language Supporting Integrated Model- and Code-Level Verification.</description>
+      <description>Recent Papers John Hatcliff, Robby, Jason Belt, Jacob Legg, Danielle Stewart, Todd Carpenter: Automated Property-based Testing from AADL Component Contracts. FMICS 2023: 131-150. Jason Belt, John Hatcliff, Robby, John Shackleton, Jim Carciofini, Todd Carpenter, Eric Mercer, Isaac Amundson, Junaid Babar, Darren Cofer, David Hardin, Karl Hoech, Konrad Slind, Ihor Kuz, Kent McLeod: Model-driven development for the seL4 microkernel using the HAMR framework. JSA 134: 102789, 2023. John Hatcliff, Danielle Stewart, Jason Belt, Robby, August Schwerdfeger: An AADL Contract Language Supporting Integrated Model- and Code-Level Verification.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://robby.santoslab.org/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://robby.santoslab.org/projects/</guid>
-      <description>Projects Current Sireum &amp;ndash; A High Assurance System Engineering Platform Past Bandera &amp;ndash; a software model checker for concurrent Java programs
-Bogor &amp;ndash; a software model checking framework
-Cadena &amp;ndash; an Eclipse-based extensible integrated modeling and development framework for component-based systems
-JMLEclipse &amp;ndash; an Eclipse-based front-end for the Java Modeling Language (JML)
-MDCF</description>
+      <description>Projects Current Sireum &amp;ndash; A High Assurance System Engineering Platform Past Bandera &amp;ndash; a software model checker for concurrent Java programs&#xA;Bogor &amp;ndash; a software model checking framework&#xA;Cadena &amp;ndash; an Eclipse-based extensible integrated modeling and development framework for component-based systems&#xA;JMLEclipse &amp;ndash; an Eclipse-based front-end for the Java Modeling Language (JML)&#xA;MDCF</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://robby.santoslab.org/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://robby.santoslab.org/teaching/</guid>
-      <description>Teaching CIS 706/801: Translator Design I &amp;amp; II
-The course teaches modern compiler techniques applied to general-purpose programming language. The goal of the course is to give students a working knowledge of the foundations, tools, and engineering approaches used in developing formal language translators. The emphasis is on the construction of compilers to position students to build translators for little languages in their careers.
-CIS 301: Logical Foundations of Programming</description>
+      <description>Teaching CIS 706/801: Translator Design I &amp;amp; II&#xA;The course teaches modern compiler techniques applied to general-purpose programming language. The goal of the course is to give students a working knowledge of the foundations, tools, and engineering approaches used in developing formal language translators. The emphasis is on the construction of compilers to position students to build translators for little languages in their careers.&#xA;CIS 301: Logical Foundations of Programming</description>
     </item>
-    
   </channel>
 </rss>

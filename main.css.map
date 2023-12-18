@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/robby/Repositories/Robby/website",
+	"sourceRoot": "/Users/robby/Repositories/Website/website",
 	"sources": [
 		"themes/sireum/assets/scss/main.scss",
 		"themes/sireum/assets/scss/_normalize.scss",
