@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="author" content="">
+<meta name="description" content="Recent Papers Darren Cofer, Isaac Amundson, Junaid Babar, David Hardin, Konrad Slind, Perry Alexander, John Hatcliff, Robby, Gerwin Klein, Corey Lewis, Eric Mercer, John Shackleton: Cyberassured Systems Engineering at Scale. IEEE S&amp;amp;P: 2-14.
+Robby, John Hatcliff: Slang: The Sireum Programming Language. ISoLA 2021: 253-273. [presentation]
+John Hatcliff, Jason Belt, Robby, Todd Carpenter: HAMR: An AADL Multi-Platform Code Generation Toolset. ISoLA 2021: 274-295. [presentation]
+Hariharan Thiagarajan, John Hatcliff, Robby: Awas: An Information Flow and Error Propagation Analysis Framework for the AADL Modeling Language." />
+<meta name="keywords" content="" />
+<meta name="robots" content="noodp" />
+<meta name="theme-color" content="" />
+<link rel="canonical" href="http://robby.santoslab.org/papers/" />
+
+
+    <title>
+        
+             :: Robby&#39;s Homepage 
+        
+    </title>
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/css/flag-icon.min.css" rel="stylesheet"
+    type="text/css">
+
+
+
+<link rel="stylesheet" href="http://robby.santoslab.org/main.0949bfd1ded2d1fea71e43a720be9b10390ccebe4caf9d857d58f3e161f9335b.css">
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="http://robby.santoslab.org/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="http://robby.santoslab.org/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="http://robby.santoslab.org/favicon-16x16.png">
+    <link rel="manifest" href="http://robby.santoslab.org/site.webmanifest">
+    <link rel="mask-icon" href="http://robby.santoslab.org/safari-pinned-tab.svg" color="">
+    <link rel="shortcut icon" href="http://robby.santoslab.org/favicon.ico">
+    <meta name="msapplication-TileColor" content="">
+
+
+<meta itemprop="name" content="">
+<meta itemprop="description" content="Recent Papers Darren Cofer, Isaac Amundson, Junaid Babar, David Hardin, Konrad Slind, Perry Alexander, John Hatcliff, Robby, Gerwin Klein, Corey Lewis, Eric Mercer, John Shackleton: Cyberassured Systems Engineering at Scale. IEEE S&amp;P: 2-14.
+Robby, John Hatcliff: Slang: The Sireum Programming Language. ISoLA 2021: 253-273. [presentation]
+John Hatcliff, Jason Belt, Robby, Todd Carpenter: HAMR: An AADL Multi-Platform Code Generation Toolset. ISoLA 2021: 274-295. [presentation]
+Hariharan Thiagarajan, John Hatcliff, Robby: Awas: An Information Flow and Error Propagation Analysis Framework for the AADL Modeling Language.">
+
+<meta itemprop="wordCount" content="196"><meta itemprop="image" content="http://robby.santoslab.org"/>
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="http://robby.santoslab.org"/>
+
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="Recent Papers Darren Cofer, Isaac Amundson, Junaid Babar, David Hardin, Konrad Slind, Perry Alexander, John Hatcliff, Robby, Gerwin Klein, Corey Lewis, Eric Mercer, John Shackleton: Cyberassured Systems Engineering at Scale. IEEE S&amp;P: 2-14.
+Robby, John Hatcliff: Slang: The Sireum Programming Language. ISoLA 2021: 253-273. [presentation]
+John Hatcliff, Jason Belt, Robby, Todd Carpenter: HAMR: An AADL Multi-Platform Code Generation Toolset. ISoLA 2021: 274-295. [presentation]
+Hariharan Thiagarajan, John Hatcliff, Robby: Awas: An Information Flow and Error Propagation Analysis Framework for the AADL Modeling Language."/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </head>
+
+    
+        <body>
+    
+    
+        <div class="container">
+            <header class="header">
+    <span class="header__inner">
+        <a href="http://robby.santoslab.org/" style="text-decoration: none;">
+    <div class="logo">
+        
+            <span class="logo__mark"> </span>
+            <span class="logo__text">Home</span>
+            <span class="logo__cursor" style=
+                  "visibility:hidden;
+                   
+                   ">
+            </span>
+        
+    </div>
+</a>
+
+
+        <span class="header__right">
+            
+                <nav class="menu">
+    <ul class="menu__inner"><li><a href="http://robby.santoslab.org/funding/">Funding</a></li><li><a href="http://robby.santoslab.org/projects/">Projects</a></li><li><a href="http://robby.santoslab.org/teaching/">Teaching</a></li>
+    </ul>
+</nav>
+
+                <span class="menu-trigger">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+                    </svg>
+                </span>
+            
+                <span class="theme-toggle not-selectable"><svg class="theme-toggler" width="24" height="24" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+   <path d="M22 41C32.4934 41 41 32.4934 41 22C41 11.5066 32.4934 3 22
+   3C11.5066 3 3 11.5066 3 22C3 32.4934 11.5066 41 22 41ZM7 22C7
+   13.7157 13.7157 7 22 7V37C13.7157 37 7 30.2843 7 22Z"/>
+ </svg></span>
+        </span>
+    </span>
+</header>
+
+
+            <div class="content">
+                
+    <main aria-role="main">
+        <div>
+            <br/><br/>
+            <center>
+    <table style="text-align: left; " border-color="" border="0" cellpadding="2" cellspacing="2">
+    <tbody>
+    <tr>
+    <td style="vertical-align: top; padding: 0 5px 0 0;">
+    <img src="http://robby.santoslab.org/img/robby.png" width="230px" alt="Robby" align="left" />
+    </td>
+    <td style="vertical-align: top;"><br/>
+    <font style="font-weight: bold;" size="+2">Robby</font><br/>
+    <font style="font-weight: bold; font-style: italic;" size="+1">Professor</font><br/>
+    <font style="font-style: italic;" >Don and Linda Glaser &mdash; Carl and Mary Ice Keystone Research Scholar</font><br/>
+    <a href="http://www.santoslab.org/">SAnToS Lab</a>, <a href="http://cs.ksu.edu/">Department of Computer Science</a>, <a href="http://www.ksu.edu/">Kansas State University</a> <br/>
+    2181 <a href="http://www.engg.ksu.edu/phaseiv/">Engineering Hall</a>, <a href="https://goo.gl/maps/qHsXwu5XAhT2">1701D Platt Street</a>, <a href="http://www.ci.manhattan.ks.us/">Manhattan</a>, <a href="http://www.kansas.gov/">KS</a> <a href="https://www.google.com/maps/place/Manhattan,+KS+66506">66506</a>, USA<br/>
+    Phone/Fax: +1 (785) 532-6350/7353<br/>
+    E-mail: <a href="mailto:robby@k-state.edu">robby@k-state.edu</a><br/>
+    <br/>
+    <a href="http://www.informatik.uni-trier.de/~ley/pers/hd/r/Robby:.html">Bib</a>
+    &nbsp; <a href="http://scholar.google.com/citations?user=j5aiHcsAAAAJ">Citations</a>
+    &nbsp; <a href="http://sireum.org">Sireum</a><br/>
+    </td>
+    </tr>
+    </tbody>
+    </table>
+</center>
+
+        </div>
+    </main>
+    <main class="post">
+
+        <article>
+            <h2 class="post-title"><a href="http://robby.santoslab.org/papers/"></a></h2>
+
+            
+            
+            
+
+            <div class="post-content">
+                <h3 id="recent-papers">Recent Papers</h3>
+<hr>
+<p>Darren Cofer, Isaac Amundson, Junaid Babar, David Hardin, Konrad Slind, Perry Alexander, John Hatcliff, Robby, Gerwin Klein, Corey Lewis, Eric Mercer, John Shackleton: <a href="https://www.computer.org/csdl/magazine/sp/5555/01/09734792/1BLn9Cqf23m">Cyberassured Systems Engineering at Scale</a>. IEEE S&amp;P: 2-14.</p>
+<hr>
+<p>Robby, John Hatcliff: <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-89159-6_17">Slang: The Sireum Programming Language</a>. ISoLA 2021: 253-273. [<a href="https://bit.ly/slang-isola21">presentation</a>]</p>
+<hr>
+<p>John Hatcliff, Jason Belt, Robby, Todd Carpenter: <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-89159-6_18">HAMR: An AADL Multi-Platform Code Generation Toolset</a>. ISoLA 2021: 274-295. [<a href="https://bit.ly/hamr-isola21">presentation</a>]</p>
+<hr>
+<p>Hariharan Thiagarajan, John Hatcliff, Robby: <a href="https://link.springer.com/article/10.1007/s11334-021-00410-w">Awas: An Information Flow and Error Propagation Analysis Framework for the AADL Modeling Language</a>. ISSE 2021.</p>
+<hr>
+<p>Hariharan Thiagarajan, John Hatcliff, Robby: <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-59155-7_23">Awas: AADL Information Flow and Error Propagation Analysis Framework</a>. <a href="https://detect.ensma.fr/2020/">DETECT</a>: 294-310, 2020.</p>
+<hr>
+<p>Fengguo Wei, Sankardas Roy, Xinming Ou, Robby: <a href="https://dl.acm.org/citation.cfm?id=3183575">Amandroid: A Precise and General Inter-component Data Flow Analysis Framework for Security Vetting of Android Apps</a>. <a href="https://tops.acm.org/">TOPS</a> 21 (3): 14:1-14:32, 2018. [<a href="http://amandroid.sireum.org/">Download</a>]</p>
+<hr>
+<p>John Hatcliff, Brian R. Larson, Jason Belt, Robby, Yi Zhang: <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-03418-4_14">A Unified Approach for Modeling, Developing, and Assuring Critical Systems</a>. <a href="http://www.isola-conference.org/">ISoLA</a> (1) 2018: 225-245.</p>
+<hr>
+<p>Robby, John Hatcliff, Jason Belt: <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-03418-4_32">Model-Based Development for High-Assurance Embedded Systems</a>. <a href="http://www.isola-conference.org/">ISoLA</a> (1) 2018: 539-545.</p>
+<hr>
+<p>Zhi Zhang, Robby, John Hatcliff, Yannick Moy, Pierre Courtieu: <a href="https://link.springer.com/chapter/10.1007%2F978-3-319-66197-1_2">Focused Certification of an Industrial Compilation and Static Verification Toolchain</a>. <a href="http://sefm17.fbk.eu/home">SEFM 2017</a>: 17-34. [<a href="http://pub.santoslab.org/TR/SAnToS-TR2016-03-11/">Coq proofs and experiment data</a>]</p>
+<hr>
+
+            </div>
+        </article>
+
+        <hr />
+
+        <div class="post-info">
+            
+            
+  		</div>
+    </main>
+
+            </div>
+
+            
+                <footer class="footer">
+    
+    
+</footer>
+
+            
+        </div>
+
+        
+
+
+
+<script type="text/javascript" src="http://robby.santoslab.org/bundle.min.feebdc8d801e3fb1791305e362b6d11557f029604dd5b3c27e2686bc88787ee90ae1ccf0afe81bd7d959d7617cfe1fc73062aa82b4e1fa830d6941193d2cbddf.js" integrity="sha512-/uvcjYAeP7F5EwXjYrbRFVfwKWBN1bPCfiaGvIh4fukK4czwr&#43;gb19lZ12F8/h/HMGKqgrTh&#43;oMNaUEZPSy93w=="></script>
+
+
+
+    </body>
+</html>

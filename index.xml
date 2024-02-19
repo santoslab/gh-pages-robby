@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robby&#39;s Homepage</title>
+    <link>http://robby.santoslab.org/</link>
+    <description>Recent content on Robby&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://robby.santoslab.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://robby.santoslab.org/funding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://robby.santoslab.org/funding/</guid>
+      <description>Funding MAILLE: Microkernal Application Information fLow with Logic-based Enforcement
+Co-PI, with John Hatcliff (K-State PI); and Todd Carpenter (Lead PI) at Adventium Labs.
+U.S. Air Force Research Laboratory (AFRL) Small Business Innovation Research (SBIR) Phase II. Project total: $749,957 (K-State&amp;rsquo;s portion: $347,000). Duration: May 2021 - April 2023.
+SIRFUR: Software Implementation from Rigorous Formal Usable Requirements
+K-State PI, with John Hatcliff (co-PI); and Todd Carpenter (Lead PI) at Adventium Labs.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://robby.santoslab.org/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://robby.santoslab.org/papers/</guid>
+      <description>Recent Papers Darren Cofer, Isaac Amundson, Junaid Babar, David Hardin, Konrad Slind, Perry Alexander, John Hatcliff, Robby, Gerwin Klein, Corey Lewis, Eric Mercer, John Shackleton: Cyberassured Systems Engineering at Scale. IEEE S&amp;amp;P: 2-14.
+Robby, John Hatcliff: Slang: The Sireum Programming Language. ISoLA 2021: 253-273. [presentation]
+John Hatcliff, Jason Belt, Robby, Todd Carpenter: HAMR: An AADL Multi-Platform Code Generation Toolset. ISoLA 2021: 274-295. [presentation]
+Hariharan Thiagarajan, John Hatcliff, Robby: Awas: An Information Flow and Error Propagation Analysis Framework for the AADL Modeling Language.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://robby.santoslab.org/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://robby.santoslab.org/projects/</guid>
+      <description>Projects Current Sireum &amp;ndash; A High Assurance System Engineering Platform Past Bandera &amp;ndash; a software model checker for concurrent Java programs
+Bogor &amp;ndash; a software model checking framework
+Cadena &amp;ndash; an Eclipse-based extensible integrated modeling and development framework for component-based systems
+JMLEclipse &amp;ndash; an Eclipse-based front-end for the Java Modeling Language (JML)
+MDCF</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://robby.santoslab.org/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://robby.santoslab.org/teaching/</guid>
+      <description>Teaching CIS 706/801: Translator Design I &amp;amp; II
+The course teaches modern compiler techniques applied to general-purpose programming language. The goal of the course is to give students a working knowledge of the foundations, tools, and engineering approaches used in developing formal language translators. The emphasis is on the construction of compilers to position students to build translators for little languages in their careers.
+CIS 301: Logical Foundations of Programming</description>
+    </item>
+    
+  </channel>
+</rss>
